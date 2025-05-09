@@ -33,7 +33,7 @@ Interactive dashboard showing product sales performance, top categories, and cus
 
 ## 🎓 Currently Learning
 - Advanced Power BI (Certification)
-- Python for Data Science
+- Python for Data Science & ML
 - Django for portfolio web development
 - Swedish 🇸🇪
 
@@ -45,4 +45,4 @@ Interactive dashboard showing product sales performance, top categories, and cus
 
 ---
 
-> “Turning messy data into meaningful insights”
+> “Turning messy data into meaningful insights – one dataset at a time”
