@@ -21,7 +21,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 [Airbnb Data Analysis](https://github.com/agusij/airbnb-eda)
+### 🏠 [Airbnb Data Analysis](https://github.com/agusij/airbnb_eda)
 Exploratory analysis of Airbnb listings from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). Visualizing pricing patterns, availability, and top neighborhoods.
 
 ### 📊 Power BI Sales Dashboard *(Coming Soon)*
