@@ -24,12 +24,11 @@
 ### 🏠 [Airbnb Data Analysis](https://github.com/agusij/airbnb_eda)
 Exploratory analysis of Airbnb listings from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). Visualizing pricing patterns, availability, and top neighborhoods.
 
+### 🧠 [Customer Churn Prediction (Python + ML)](https://github.com/agusij/customer_churn)
+Predicting customer churn using a Random Forest model, SMOTE to handle class imbalance, and a clean ML pipeline with EDA and feature importance analysis.
+
 ### 📊 Power BI Sales Dashboard *(Coming Soon)*
 Interactive dashboard showing product sales performance, top categories, and customer segmentation.
-
-### 🧠 Python: Customer Churn Prediction *(Coming Soon)*
-Building a predictive ML model to estimate customer churn in telecom data.
-
 ---
 
 ## 🎓 Currently Learning
