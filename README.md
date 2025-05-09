@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi there! I'm Agustín
 
-<!--
-**agusij/agusij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst & Business Intelligence Consultant**  
+💻 Specializing in Power BI, Python, SQL, and data-driven insights  
+🌍 From Argentina 🇦🇷 | Living in Australia 🇦🇺 | Moving to Sweden 🇸🇪  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages**: Python, SQL, DAX
+- **Data Analysis**: Pandas, Numpy, OpenPyXL, Datetime, Regex
+- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **Machine Learning**: Scikit-learn, XGBoost (basic)
+- **BI & Dashboards**: Power BI, Tableau, AWS QuickSight, Looker Studio
+- **ETL & Data Wrangling**: Python (with Pandas), Power Query
+- **Cloud & DB**: Azure, AWS (S3), PostgreSQL, MySQL
+- **Other Tools**: Git, Jupyter, Excel, Markdown, Visual Studio Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 [Airbnb Data Analysis](https://github.com/agusij/airbnb-eda)
+Exploratory analysis of Airbnb listings from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). Visualizing pricing patterns, availability, and top neighborhoods.
+
+### 📊 Power BI Sales Dashboard *(Coming Soon)*
+Interactive dashboard showing product sales performance, top categories, and customer segmentation.
+
+### 🧠 Python: Customer Churn Prediction *(Coming Soon)*
+Building a predictive ML model to estimate customer churn in telecom data.
+
+---
+
+## 🎓 Currently Learning
+- Advanced Power BI (Certification)
+- Python for Data Science
+- Django for portfolio web development
+- Swedish 🇸🇪
+
+---
+
+## 🌐 Connect with Me
+- GitHub: [github.com/agusij](https://github.com/agusij)
+- LinkedIn: [linkedin.com/in/aijaureguiberry](https://www.linkedin.com/in/aijaureguiberry)
+
+---
+
+> “Turning messy data into meaningful insights”
