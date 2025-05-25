@@ -27,14 +27,18 @@ Exploratory analysis of Airbnb listings from [Inside Airbnb](http://insideairbnb
 ### 🧠 [Customer Churn Prediction (Python + ML)](https://github.com/agusij/customer_churn)
 Predicting customer churn using a Random Forest model, SMOTE to handle class imbalance, and a clean ML pipeline with EDA and feature importance analysis.
 
-### 📊 Power BI Sales Dashboard *(Coming Soon)*
-Interactive dashboard showing product sales performance, top categories, and customer segmentation.
+### 📈 [Multi-Asset ETF Analysis (Python)](https://github.com/agusij/stock_analysis)
+Professional-grade financial analysis using SPY, QQQ, GLD, and VIX ETFs. Includes data cleaning, normalized performance, KPI summary, moving averages, and trend insights. 🐍 Built in Python with `yfinance`, `pandas`, `matplotlib`, and `seaborn`.
+
+
+### 📊 Power BI Finance/Sales/Logistic/HR Dashboards *(Coming Soon)*
+
 ---
 
 ## 🎓 Currently Learning
 - Advanced Power BI (Certification)
-- Python for Data Science & ML
-- Django for portfolio web development
+- Python for Data Science & ML (Improving)
+- React+Django for portfolio web development
 - Swedish 🇸🇪
 
 ---
