@@ -1,5 +1,20 @@
 # 👋 Hi there! I'm Agustín
 
+<!-- Tech stack badges -->
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+<!-- Certification badge -->
+[![Microsoft PL-300](https://img.shields.io/badge/Microsoft%20Certified-PL--300%20Power%20BI%20Data%20Analyst%20Associate-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/es-es/AgustnJaureguiberry-9363/5C352B6075ABC8C8?sharingId=5DC53681D6A24A56)
+
+---
+
 🎯 **Data Analyst & Business Intelligence Consultant**  
 💻 Specializing in Power BI, Python, SQL, and data-driven insights  
 🌍 Argentina 🇦🇷 → Australia 🇦🇺 → Sweden 🇸🇪 
