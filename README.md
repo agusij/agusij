@@ -2,41 +2,95 @@
 
 🎯 **Data Analyst & Business Intelligence Consultant**  
 💻 Specializing in Power BI, Python, SQL, and data-driven insights  
-🌍 From Argentina 🇦🇷 | Living in Australia 🇦🇺 | Moving to Sweden 🇸🇪  
+🌍 Argentina 🇦🇷 → Australia 🇦🇺 → Sweden 🇸🇪 
+
+
+---
+
+## 🧠 About Me
+
+I’m a Data Analyst with hands-on experience across **analytics, finance, logistics, and operations**, focused on transforming complex datasets into clear, actionable insights for stakeholders.
+
+I work comfortably across the full analytics lifecycle: **data extraction, cleaning, analysis, visualization, and storytelling**, with a strong emphasis on business impact and clarity.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL, DAX
-- **Data Analysis**: Pandas, Numpy, OpenPyXL, Datetime, Regex
-- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
-- **Machine Learning**: Scikit-learn, XGBoost (basic)
-- **BI & Dashboards**: Power BI, Tableau, AWS QuickSight, Looker Studio
-- **ETL & Data Wrangling**: Python (with Pandas), Power Query
-- **Cloud & DB**: Azure, AWS (S3), PostgreSQL, MySQL
-- **Other Tools**: Git, Jupyter, Excel, Markdown, Visual Studio Code
+### 🧩 Languages & Querying
+- **Python**, **SQL**, **DAX**
+
+### 📊 Data Analysis & Visualization
+- Pandas, NumPy, OpenPyXL, Datetime, Regex  
+- Matplotlib, Seaborn, Plotly  
+
+### 🧠 Machine Learning
+- Scikit-learn  
+- XGBoost *(basic)*
+
+### 📈 BI & Dashboards
+- **Power BI**
+- Tableau
+- AWS QuickSight
+- Looker Studio
+
+### ⚙️ ETL & Data Wrangling
+- Python (Pandas-based pipelines)
+- Power Query
+
+### ☁️ Cloud & Databases
+- Azure
+- AWS (S3)
+- PostgreSQL, MySQL
+
+### 🧰 Tools
+- Git & GitHub
+- Jupyter Notebooks
+- Excel (advanced)
+- Markdown
+- Visual Studio Code
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏠 [Airbnb Data Analysis](https://github.com/agusij/airbnb_eda)
+
 Exploratory analysis of Airbnb listings from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). Visualizing pricing patterns, availability, and top neighborhoods.
 
 ### 🧠 [Customer Churn Prediction (Python + ML)](https://github.com/agusij/customer_churn)
-Predicting customer churn using a Random Forest model, SMOTE to handle class imbalance, and a clean ML pipeline with EDA and feature importance analysis.
+
+End-to-end churn prediction project including:
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Class imbalance handling with **SMOTE**
+- Random Forest model
+- Feature importance and business interpretation
 
 ### 📈 [Multi-Asset ETF Analysis (Python)](https://github.com/agusij/stock_analysis)
-Professional-grade financial analysis using SPY, QQQ, GLD, and VIX ETFs. Includes data cleaning, normalized performance, KPI summary, moving averages, and trend insights. 🐍 Built in Python with `yfinance`, `pandas`, `matplotlib`, and `seaborn`.
+
+Professional-grade financial analysis using **SPY, QQQ, GLD, and VIX** ETFs:
+- Data cleaning & normalization
+- Performance comparison
+- KPI summaries
+- Moving averages & trend analysis  
+
+🐍 Built with `yfinance`, `pandas`, `matplotlib`, and `seaborn`
 
 
-### 📊 Power BI Finance/Sales/Logistic/HR Dashboards *(Coming Soon)*
+### 📊 **Power BI Dashboards – Finance / Sales / Logistics / HR**
+*(Coming Soon)*  
+Interactive dashboards focused on KPI tracking, trend analysis, and executive-ready insights.
 
 ---
 
 ## 🎓 Currently Learning
-- Advanced Power BI (Certification)
 - Python for Data Science & ML (Improving)
 - React+Django for portfolio web development
 - Swedish 🇸🇪
