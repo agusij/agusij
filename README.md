@@ -30,6 +30,18 @@ I work comfortably across the full analytics lifecycle: **data extraction, clean
 
 ---
 
+## 💼 Professional Experience
+
+**Data Analyst / Business Intelligence Consultant**
+
+- Delivered analytics and BI solutions across **logistics, operations, finance, and customer performance**
+- Experience in international environments, including roles at **Amazon and Deloitte Digital**
+- Designed and maintained **Power BI dashboards** for KPI tracking, trend analysis, and executive reporting
+- Used **SQL and Python** to extract, clean, and analyze complex datasets
+- Collaborated with stakeholders to translate business needs into **data-driven insights**
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🧩 Languages & Querying
